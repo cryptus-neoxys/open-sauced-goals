@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "devicons/devicon",
+    "stargazers_count": 4432,
+    "open_issues_count": 163,
+    "forks_count": 972
+  },
+  {
+    "full_name": "LunarVim/LunarVim",
+    "stargazers_count": 6251,
+    "open_issues_count": 92,
+    "forks_count": 1020
+  },
+  {
+    "full_name": "twpayne/chezmoi",
+    "stargazers_count": 5221,
+    "open_issues_count": 36,
+    "forks_count": 287
+  },
+  {
+    "full_name": "neoclide/coc.nvim",
+    "stargazers_count": 17979,
+    "open_issues_count": 50,
+    "forks_count": 721
+  },
+  {
+    "full_name": "junegunn/vim-plug",
+    "stargazers_count": 25366,
+    "open_issues_count": 87,
+    "forks_count": 1585
+  },
+  {
+    "full_name": "neovim/nvim-lspconfig",
+    "stargazers_count": 3198,
+    "open_issues_count": 23,
+    "forks_count": 643
+  },
+  {
+    "full_name": "Shpota/goxygen",
+    "stargazers_count": 2309,
+    "open_issues_count": 8,
+    "forks_count": 157
+  },
+  {
+    "full_name": "d3r1n/dotman",
+    "stargazers_count": 67,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "bmorrisondev/go-notion",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MangoDB-io/MangoDB",
+    "stargazers_count": 2206,
+    "open_issues_count": 20,
+    "forks_count": 45
+  },
+  {
+    "full_name": "nrwl/nx",
+    "stargazers_count": 9292,
+    "open_issues_count": 473,
+    "forks_count": 889
+  },
+  {
+    "full_name": "graphql/graphiql",
+    "stargazers_count": 12900,
+    "open_issues_count": 186,
+    "forks_count": 1388
+  },
+  {
+    "full_name": "FormidableLabs/urql",
+    "stargazers_count": 6539,
+    "open_issues_count": 27,
+    "forks_count": 289
+  },
+  {
+    "full_name": "sindresorhus/awesome",
+    "stargazers_count": 175777,
+    "open_issues_count": 35,
+    "forks_count": 21985
+  },
+  {
+    "full_name": "nestjs/awesome-nestjs",
+    "stargazers_count": 4890,
+    "open_issues_count": 25,
+    "forks_count": 494
+  },
+  {
+    "full_name": "artart222/CodeArt",
+    "stargazers_count": 630,
+    "open_issues_count": 4,
+    "forks_count": 22
+  },
+  {
+    "full_name": "Tanmay000009/glocal",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "hidjou/vs-code-theme-monokai-flow",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "webtorrent/webtorrent",
+    "stargazers_count": 25399,
+    "open_issues_count": 119,
+    "forks_count": 2466
+  },
+  {
+    "full_name": "DarthBenro008/rchore",
+    "stargazers_count": 29,
+    "open_issues_count": 8,
+    "forks_count": 4
+  },
+  {
+    "full_name": "microsoft/TypeScript",
+    "stargazers_count": 76010,
+    "open_issues_count": 5373,
+    "forks_count": 9943
+  },
+  {
+    "full_name": "TypeStrong/ts-node",
+    "stargazers_count": 9454,
+    "open_issues_count": 104,
+    "forks_count": 386
+  },
+  {
+    "full_name": "remy/nodemon",
+    "stargazers_count": 23285,
+    "open_issues_count": 29,
+    "forks_count": 1545
+  },
+  {
+    "full_name": "okonet/lint-staged",
+    "stargazers_count": 9383,
+    "open_issues_count": 111,
+    "forks_count": 345
+  },
+  {
+    "full_name": "typicode/husky",
+    "stargazers_count": 24777,
+    "open_issues_count": 36,
+    "forks_count": 873
+  },
+  {
+    "full_name": "motdotla/dotenv",
+    "stargazers_count": 14454,
+    "open_issues_count": 33,
+    "forks_count": 686
+  },
+  {
+    "full_name": "open-cli-tools/concurrently",
+    "stargazers_count": 4866,
+    "open_issues_count": 64,
+    "forks_count": 192
+  },
+  {
+    "full_name": "DefinitelyTyped/DefinitelyTyped",
+    "stargazers_count": 36710,
+    "open_issues_count": 702,
+    "forks_count": 26154
+  },
+  {
+    "full_name": "fdehau/tui-rs",
+    "stargazers_count": 5892,
+    "open_issues_count": 84,
+    "forks_count": 301
+  },
+  {
+    "full_name": "gizak/termui",
+    "stargazers_count": 11386,
+    "open_issues_count": 86,
+    "forks_count": 726
+  }
+]
