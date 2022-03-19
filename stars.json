@@ -1,75 +1,75 @@
 [
   {
     "full_name": "notable/notable",
-    "stargazers_count": 19433,
+    "stargazers_count": 19444,
     "open_issues_count": 619,
-    "forks_count": 979
+    "forks_count": 982
   },
   {
     "full_name": "aristocratos/bpytop",
-    "stargazers_count": 8357,
+    "stargazers_count": 8369,
     "open_issues_count": 65,
-    "forks_count": 334
+    "forks_count": 335
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 27180,
-    "open_issues_count": 725,
-    "forks_count": 1708
+    "stargazers_count": 27199,
+    "open_issues_count": 719,
+    "forks_count": 1710
   },
   {
     "full_name": "howardchung/watchparty",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 45,
     "forks_count": 46
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 37992,
-    "open_issues_count": 310,
+    "stargazers_count": 38047,
+    "open_issues_count": 305,
     "forks_count": 2180
   },
   {
     "full_name": "tc39/proposal-pattern-matching",
-    "stargazers_count": 4136,
+    "stargazers_count": 4141,
     "open_issues_count": 4,
     "forks_count": 86
   },
   {
     "full_name": "devicons/devicon",
-    "stargazers_count": 4961,
-    "open_issues_count": 223,
-    "forks_count": 1139
+    "stargazers_count": 4985,
+    "open_issues_count": 224,
+    "forks_count": 1144
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 7810,
-    "open_issues_count": 77,
-    "forks_count": 1077
+    "stargazers_count": 7883,
+    "open_issues_count": 79,
+    "forks_count": 1075
   },
   {
     "full_name": "twpayne/chezmoi",
-    "stargazers_count": 6266,
+    "stargazers_count": 6288,
     "open_issues_count": 13,
-    "forks_count": 329
+    "forks_count": 330
   },
   {
     "full_name": "neoclide/coc.nvim",
-    "stargazers_count": 19095,
+    "stargazers_count": 19129,
     "open_issues_count": 22,
-    "forks_count": 766
+    "forks_count": 771
   },
   {
     "full_name": "junegunn/vim-plug",
-    "stargazers_count": 26781,
-    "open_issues_count": 91,
-    "forks_count": 1671
+    "stargazers_count": 26814,
+    "open_issues_count": 92,
+    "forks_count": 1675
   },
   {
     "full_name": "neovim/nvim-lspconfig",
-    "stargazers_count": 4021,
-    "open_issues_count": 33,
-    "forks_count": 924
+    "stargazers_count": 4044,
+    "open_issues_count": 38,
+    "forks_count": 935
   },
   {
     "full_name": "Shpota/goxygen",
@@ -91,43 +91,43 @@
   },
   {
     "full_name": "MangoDB-io/MangoDB",
-    "stargazers_count": 4198,
+    "stargazers_count": 4200,
     "open_issues_count": 91,
-    "forks_count": 135
+    "forks_count": 134
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 11384,
-    "open_issues_count": 560,
-    "forks_count": 1077
+    "stargazers_count": 11437,
+    "open_issues_count": 538,
+    "forks_count": 1079
   },
   {
     "full_name": "graphql/graphiql",
-    "stargazers_count": 13380,
-    "open_issues_count": 230,
-    "forks_count": 1450
+    "stargazers_count": 13388,
+    "open_issues_count": 231,
+    "forks_count": 1451
   },
   {
     "full_name": "FormidableLabs/urql",
-    "stargazers_count": 6985,
-    "open_issues_count": 27,
-    "forks_count": 308
+    "stargazers_count": 6993,
+    "open_issues_count": 30,
+    "forks_count": 309
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 193382,
-    "open_issues_count": 39,
-    "forks_count": 23078
+    "stargazers_count": 194070,
+    "open_issues_count": 41,
+    "forks_count": 23130
   },
   {
     "full_name": "nestjs/awesome-nestjs",
-    "stargazers_count": 5499,
+    "stargazers_count": 5511,
     "open_issues_count": 17,
-    "forks_count": 560
+    "forks_count": 561
   },
   {
     "full_name": "artart222/CodeArt",
-    "stargazers_count": 704,
+    "stargazers_count": 708,
     "open_issues_count": 2,
     "forks_count": 34
   },
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "webtorrent/webtorrent",
-    "stargazers_count": 26059,
-    "open_issues_count": 107,
-    "forks_count": 2546
+    "stargazers_count": 26067,
+    "open_issues_count": 109,
+    "forks_count": 2547
   },
   {
     "full_name": "DarthBenro008/rchore",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "microsoft/TypeScript",
-    "stargazers_count": 78887,
-    "open_issues_count": 5472,
-    "forks_count": 10338
+    "stargazers_count": 78959,
+    "open_issues_count": 5477,
+    "forks_count": 10341
   },
   {
     "full_name": "TypeStrong/ts-node",
-    "stargazers_count": 10029,
-    "open_issues_count": 96,
+    "stargazers_count": 10032,
+    "open_issues_count": 98,
     "forks_count": 416
   },
   {
     "full_name": "remy/nodemon",
-    "stargazers_count": 23723,
+    "stargazers_count": 23738,
     "open_issues_count": 50,
-    "forks_count": 1576
+    "forks_count": 1575
   },
   {
     "full_name": "okonet/lint-staged",
-    "stargazers_count": 9938,
-    "open_issues_count": 125,
-    "forks_count": 370
+    "stargazers_count": 9958,
+    "open_issues_count": 121,
+    "forks_count": 371
   }
 ]
